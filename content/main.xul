@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<overlay id="thunderapihelper-browser-overlay"
+  xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+    <script type="application/javascript" src="chrome://thunderapihelper/content/xThunder.js" />
+    <script type="application/javascript" src="chrome://thunderapihelper/content/main.js"/>
+    
+</overlay>
