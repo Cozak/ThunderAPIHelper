@@ -15,7 +15,7 @@ var CoHelperThunderAPI = {
       return;
     }
     // 获取资源链接列表
-    var links = hrefs.split(';');
+    var links = JSON.parse(hrefs);
     // 初始化下载模块
     xThunder.init('', links.length, 'Thunder');
     for (var i=0; i<links.length; ++i) {
