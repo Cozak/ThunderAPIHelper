@@ -12,3 +12,6 @@
   下载xpi扩展包进行安装
   
   由于此扩展未经过验证，强烈建议安装前仔细阅读xpi包内的README.txt
+  
+  (使用Firefox的ESR版能够相对方便地安装未验证的扩展，<a href="https://support.mozilla.org/zh-CN/kb/add-ons-signing-firefox?as=u&utm_source=inproduct">具体方法</a>)
+  
